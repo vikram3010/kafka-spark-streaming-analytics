@@ -1,0 +1,6 @@
+pyspark
+kafka-python
+pandas
+numpy
+jupyter
+notebook
